@@ -1,0 +1,2 @@
+The user is einfochips
+The home for this einfochips is : /home/einfochips
