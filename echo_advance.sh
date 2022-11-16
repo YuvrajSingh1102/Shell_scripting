@@ -21,7 +21,7 @@ echo "Hello this is Yuvraj" | tr [a-z] [A-Z]
 
 #comments
 
-#This is first wat to comment any line.
+#This is first way to comment any line.
 
 << Comment
 This is the second way to comment multiple lines.
@@ -31,7 +31,7 @@ i am a student.
 Comment
 
 : '
-This is the third wat to comment multiple lines.
+This is the third way to comment multiple lines.
 hdsiugrugwjghsughw
 fhewufewiewp;weljewjfeywfgef
 uwoqwghvvvsgwdqsq
